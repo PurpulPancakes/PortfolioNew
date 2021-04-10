@@ -230,14 +230,14 @@ Websites
     Year 2 Coding 1st Half
         Test Site - Website Portfolio
         Github Slideshow - Learning the ins and outs of github!
-        JavaScript DOM whack-a-mole
-        Unit01 Debugging
-        TemplateLiteralPractice
-        Christmas Wishlist
+        JavaScript DOM whack-a-mole - Whack a mole Baby Yoda
+        Unit01 Debugging - Learning Debug ideas
+        TemplateLiteralPractice using the let in javascript
+        Christmas Wishlist - Website version of my 2020 Christmas Wishlist
 
     Year 2 Coding 2nd Half
-        PurpulStudios
-        Express locallibrary Tutorial
-        Youtooz
-        CIWJS_Practice
+        PurpulStudios - Entreprenuer Website Project
+        Express locallibrary Tutorial - Learning other coding libraries
+        Youtooz - Recreating Youtooz Website
+        CIWJS_Practice - Still learning some javascript that could help with C++
         PortfolioNew (What you're currently viewing)
