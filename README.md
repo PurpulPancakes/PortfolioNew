@@ -94,16 +94,118 @@ Art
 Videos
 
     Acting
-        TEMP
+        The New Game #JFF #JFF48
+        Army Men: Sarge's Heroes (N64) : My Childhood Game | PurpulPancakes
+        Super Mario Sunshine : The Mario Game I Never Played | PurpulPancakes
+        Wii Music : Because Learning Music is Too Hard | PurpulPancakes
+        The Tactical Retreat
+        To Study an Animal
+        To Make a Movie
+        Chef's Pasta
+        PurpulPancakes: Kaiketsu Zorori Da-Da-Da-Daibouken Part 1
+        PurpulPancakes: Kaiketsu Zorori
+        PurpulPancakes: Breath Of The Wild
+        PurpulPancakes: Wii Sports
+        PurpulPancakes: Super Mario Galaxy
+        PurpulPancakes: NES Classic Edition
+        PurpulPancakes: Club Penguin Game Day!
+        PurpulPancakes: Top 10 Zelda Flash Games!
+        PurpulPancakes: Super Smash Bros. Brawl
 
     Editing
-        TEMP
+        My trip to japan from like a year ago (2020)
+        The New Game #JFF #JFF48
+        PurpulPancakes Q and A (400 Subscriber Special)
+        Army Men: Sarge's Heroes (N64) : My Childhood Game | PurpulPancakes
+        Recreating TommyInnit's Thumbnail!
+        Super Mario Sunshine : The Mario Game I Never Played | PurpulPancakes
+        Wii Music : Because Learning Music is Too Hard | PurpulPancakes
+        Luke Confronts the Emperor Recreated
+        The Tactical Retreat
+        PART 2/2 TheOdd1sOut Perler Portrait - The Reveal
+        PART 1/2 TheOdd1sOut Perler Portrait - The Creation
+        To Study an Animal
+        To Make a Movie
+        Chef's Pasta
+        PurpulPancakes: Kaiketsu Zorori Da-Da-Da-Daibouken Part 1
+        PurpulPancakes: Kaiketsu Zorori
+        PurpulPancakes: Breath Of The Wild
+        PurpulPancakes: Wii Sports
+        PurpulPancakes: Super Mario Galaxy
+        PurpulPancakes: NES Classic Edition
+        PurpulPancakes: Club Penguin Game Day!
+        PurpulPancakes: Top 10 Zelda Flash Games!
+        PurpulPancakes: Super Smash Bros. Brawl
+        Let's check Miiverse: Mario Party 10
+        MS Paint, the new Photoshop
+        Best of 2014!
+        Ice Bucket Challenge with friends!
+        My trip to San Diego Comic Con
 
     Silly Edits
-        TEMP
+        My trip to japan from like a year ago (2020)
+        I killed Dream in Minecraft
+        purpul guy
+        ant.mp4
+        SoS tht WoW
+        tyler is in the dog video
+        First post of the decade!!
+        Mark Plays Lets Play
+        cheese lol
+        One more because it's funny
+        AWESOME
+        Now where could my pipe be?
+        Kermit Sings Paralyzer
+        Everywhere I Go
+        My entry for Sive 1's Editing Tournament
+        Bruh Nye the Science Guy
+        run
+        there are 2 ways of hiding
+        When you play as demoman (TF2 Meme)
+        Minecraft 2 leaked footage
+        The Evil Fun Gang
+        Jack black still grooving
+        Party Rock Evangelion (Sources in Desc.)
+        Mairusu's live reaction to Animal Crossing on the Nintendo Switch
+        Plasma Vengabus
+        Toad Plays Minecraft
+        pumch
+        Paef'a Chsts
+        Jacksepticeye enters the battle!
+        Oh No Another Infinity War Spoiler (But Yes, SPOILER WARNING)
+        WOAH! What is that!?
+        Really cool smash bros leak
+        Mr Owl
+        Really cool lightsaber
+        Drake and Josh in Drake's glowing room
+        Chef's Pasta (The Bad Version)
+        Very Bad Chef's Pasta
+        Brand new Nintendo Game
+        The most powerful of all, Pewdiepie
+        Funny haha Splash
+        Video ideas are hard to come by
+        Decent Unboxing: Toriel Plush
+        Papy tries to fix Snas, but fails in the end
+        ILoveShakingMyHipsLikeThis.mp4
 
     Gameplay Edits
-        TEMP
+        How I became the best Among Us player...
+        FRIDAY NIGHT FUNKIN' Mod Showcase: Purpul as Pico (Week 3 Mod)
+        Scout Saves the Day
+        So I tried Army Men: Sarge's Heroes...
+        The Quest to Defeat Heat Man
+        sned this video to your crush
+        Army Men: Sarge's Heroes (N64) : My Childhood Game | PurpulPancakes
+        Super Mario Sunshine : The Mario Game I Never Played | PurpulPancakes
+        I killed Dream in Minecraft
+        Wii Music : Because Learning Music is Too Hard | PurpulPancakes
+        Can I beat Fundy's NIGHTMARE Difficulty on HARDCORE!?
+        Purpul Minecraft Hardcore #1 - Part 5 | GRAVE ROBBERY
+        Purpul Minecraft Hardcore #1 - Part 4 | THE WANDERING TRADER!
+        Purpul Minecraft Hardcore #1 - Part 3 | EXPLORING THE VILLAGE MINES
+        Purpul Minecraft Hardcore #1 - Part 2 | A STAY AT THE VILLAGE
+        Purpul Minecraft Hardcore #1 - Part 1 | THE BEGINNING OF A NEW ADVENTURE
+        Minecraft Hardcore #1 Promo | PurpulPancakes
 
 
 
