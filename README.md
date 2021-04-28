@@ -44,7 +44,7 @@ Art
     Twitter art
         (List here when I have them, because I also have a lot to put here!)
 
-    Art Attack
+    Artfight
         (List here when I have them, can't access site with school wifi https://artfight.net/~PurpulPancakes/attacks)
 
     Blender
@@ -189,12 +189,13 @@ Videos
         ILoveShakingMyHipsLikeThis.mp4
 
     Gameplay Edits
+        Average Rhythm Game Player Vs. Whitty Mod (FRIDAY NIGHT FUNKIN')
         How I became the best Among Us player...
         FRIDAY NIGHT FUNKIN' Mod Showcase: Purpul as Pico (Week 3 Mod)
         Scout Saves the Day
         So I tried Army Men: Sarge's Heroes...
         The Quest to Defeat Heat Man
-        sned this video to your crush
+        send this video to your crush
         Army Men: Sarge's Heroes (N64) : My Childhood Game | PurpulPancakes
         Super Mario Sunshine : The Mario Game I Never Played | PurpulPancakes
         I killed Dream in Minecraft
@@ -334,7 +335,7 @@ Websites
         Github Slideshow - Learning the ins and outs of github!
         JavaScript DOM whack-a-mole - Whack a mole Baby Yoda
         Unit01 Debugging - Learning Debug ideas
-        TemplateLiteralPractice using the let in javascript
+        TemplateLiteralPractice - using the let in javascript
         Christmas Wishlist - Website version of my 2020 Christmas Wishlist
 
     Year 2 Coding 2nd Half
