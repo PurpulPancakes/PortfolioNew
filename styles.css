@@ -18,6 +18,10 @@ h1{
     font-size: 3em;
 }
 
+iframe{
+    width: 100%;
+}
+
 button{
     background: #ab87f5;
     padding: 0.75%;
@@ -68,43 +72,230 @@ section#item{
 
 /* -----Games----- */
 
-section#python{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
-    grid-column-gap: 5px;
+/* Desktop */
+
+@media (max-width: 10000px){
+    section#python{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#virtualBasic{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#gDevelop{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#mods{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
 }
+
+/* Tablet */
+
+@media (max-width: 1024px){
+    section#python{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#virtualBasic{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#gDevelop{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#mods{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 767px){
+    section#python{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
+    section#virtualBasic{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#gDevelop{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#mods{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+}
+
+/* Singular */
 
 section#unity{
     display: grid;
     grid-template-columns: repeat(1, 1fr);
-    grid-template-rows: repeat(1, 1fr);
-    grid-column-gap: 5px;
-}
-
-section#virtualBasic{
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-template-rows: repeat(1, 1fr);
-    grid-column-gap: 5px;
-}
-
-section#gDevelop{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(1, 1fr);
-    grid-column-gap: 5px;
-}
-
-section#mods{
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    grid-template-rows: repeat(2, 1fr);
+    grid-template-rows: 1fr;
     grid-column-gap: 5px;
 }
 
 /* -----Art----- */
 
+/* Desktop */
+
+@media (max-width: 10000px){
+    
+}
+
+/* Tablet */
+
+@media (max-width: 1024px){
+    
+}
+
+/* Mobile */
+
+@media (max-width: 767px){
+    
+}
+
+/* Singular */
+
 /* -----Videos----- */
 
+/* Desktop */
+
+@media (max-width: 10000px){
+    section#editing{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#silly{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#gameplay{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#act{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+}
+
+/* Tablet */
+
+@media (max-width: 1024px){
+    section#editing{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#silly{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#gameplay{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#act{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 767px){
+    section#editing{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#silly{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#gameplay{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#act{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+}
+
 /* -----Websites----- */
+
+/* Desktop */
+
+@media (max-width: 10000px){
+    
+}
+
+/* Tablet */
+
+@media (max-width: 1024px){
+    
+}
+
+/* Mobile */
+
+@media (max-width: 767px){
+    
+}
+
+/* Singular */
