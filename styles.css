@@ -69,6 +69,49 @@ section#item{
     grid-template-rows: repeat(2, 1fr);
     grid-column-gap: 5px;
 }
+section#item2{
+    background: #ab87f5;
+    padding: 0.75%;
+    margin: 5%;
+    border-radius: 5px;
+    border: outset #672abd 4px;
+    font-family: secondary;
+    font-size: 1.05em;
+}
+
+/* -----Home Page----- */
+/* Desktop */
+
+@media (max-width: 10000px){
+    section#contact{
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+}
+
+/* Tablet */
+
+@media (max-width: 1024px){
+    section#contact{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+}
+
+/* Mobile */
+
+@media (max-width: 767px){
+    section#contact{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+}
 
 /* -----Games----- */
 
@@ -283,19 +326,86 @@ section#unity{
 /* Desktop */
 
 @media (max-width: 10000px){
-    
+    section#bigProjects{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year1FirstHalf{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year1SecondHalf{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year2{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
 }
 
 /* Tablet */
 
 @media (max-width: 1024px){
-    
+    section#bigProjects{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year1FirstHalf{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year1SecondHalf{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year2{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
 }
 
 /* Mobile */
 
 @media (max-width: 767px){
-    
+    section#bigProjects{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year1FirstHalf{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year1SecondHalf{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#year2{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
 }
-
-/* Singular */
