@@ -474,21 +474,9 @@ section#unity{
         grid-template-rows: 1fr;
         grid-column-gap: 5px;
     }
-    section#year1FirstHalf{
+    section#codingClass{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year1SecondHalf{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year2{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
         grid-template-rows: 1fr;
         grid-column-gap: 5px;
     }
@@ -503,19 +491,7 @@ section#unity{
         grid-template-rows: 1fr;
         grid-column-gap: 5px;
     }
-    section#year1FirstHalf{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year1SecondHalf{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year2{
+    section#codingClass{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: 1fr;
@@ -532,19 +508,7 @@ section#unity{
         grid-template-rows: 1fr;
         grid-column-gap: 5px;
     }
-    section#year1FirstHalf{
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year1SecondHalf{
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year2{
+    section#codingClass{
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
