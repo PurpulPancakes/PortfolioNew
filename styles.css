@@ -21,11 +21,14 @@ h1{
 iframe{
     width: 100%;
 }
+img{
+    width: 100%;
+}
 
 button{
     background: #ab87f5;
     padding: 0.75%;
-    width: 100px;
+    width: 105px;
     margin: 1%;
     border-radius: 5px;
     border: outset #672abd 4px;
@@ -215,22 +218,161 @@ section#unity{
 /* Desktop */
 
 @media (max-width: 10000px){
-    
+    section#newgroundsArt{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#twitterArt{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#artfight{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#blender{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#youtooz{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#photo{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#animation{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#reanimated{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
 }
 
 /* Tablet */
 
 @media (max-width: 1024px){
-    
+    section#newgroundsArt{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#twitterArt{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#artfight{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#blender{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#youtooz{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#photo{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#animation{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#reanimated{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
 }
 
 /* Mobile */
 
 @media (max-width: 767px){
-    
+    section#newgroundsArt{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#twitterArt{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#artfight{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#blender{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#youtooz{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#photo{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#animation{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
+    section#reanimated{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
 }
-
-/* Singular */
 
 /* -----Videos----- */
 
@@ -332,21 +474,9 @@ section#unity{
         grid-template-rows: 1fr;
         grid-column-gap: 5px;
     }
-    section#year1FirstHalf{
+    section#codingClass{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year1SecondHalf{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year2{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
         grid-template-rows: 1fr;
         grid-column-gap: 5px;
     }
@@ -361,19 +491,7 @@ section#unity{
         grid-template-rows: 1fr;
         grid-column-gap: 5px;
     }
-    section#year1FirstHalf{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year1SecondHalf{
-        display: grid;
-        grid-template-columns: repeat(2, 1fr);
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year2{
+    section#codingClass{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: 1fr;
@@ -390,19 +508,7 @@ section#unity{
         grid-template-rows: 1fr;
         grid-column-gap: 5px;
     }
-    section#year1FirstHalf{
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year1SecondHalf{
-        display: grid;
-        grid-template-columns: 1fr;
-        grid-template-rows: 1fr;
-        grid-column-gap: 5px;
-    }
-    section#year2{
+    section#codingClass{
         display: grid;
         grid-template-columns: 1fr;
         grid-template-rows: 1fr;
