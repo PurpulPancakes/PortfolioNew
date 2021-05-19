@@ -21,8 +21,31 @@ h1{
 iframe{
     width: 100%;
 }
+
 img{
     width: 100%;
+}
+
+section#item3 img{
+    width: 100%;
+}
+
+div a:link{
+    color:#5c05b3;
+    text-decoration: none;
+}
+div a:active{
+    color:#5c05b3;
+    text-decoration: none;
+}
+div a:visited{
+    color:#5c05b3;
+    text-decoration: none;
+}
+div a:hover{
+    color:#5c05b3;
+    text-decoration: none;
+    cursor: pointer;
 }
 
 button{
@@ -80,6 +103,28 @@ section#item2{
     border: outset #672abd 4px;
     font-family: secondary;
     font-size: 1.05em;
+}
+section#item3{
+    background: #ab87f5;
+    padding: 0.75%;
+    width: 65%;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    border: outset #672abd 4px;
+    font-family: secondary;
+    font-size: 1.05em;
+}
+section#itemAbout{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+section#item a{
+    margin-top: auto;
+    margin-bottom: auto;
+}
+img#special{
+    padding-top: 15%;
 }
 
 /* -----Home Page----- */
