@@ -166,6 +166,12 @@ img#special{
 /* Desktop */
 
 @media (max-width: 10000px){
+    section#commercial{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
     section#python{
         display: grid;
         grid-template-columns: repeat(3, 1fr);
