@@ -213,6 +213,12 @@ img#special{
 /* Tablet */
 
 @media (max-width: 1024px){
+    section#commercial{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: 1fr;
+        grid-column-gap: 5px;
+    }
     section#python{
         display: grid;
         grid-template-columns: repeat(2, 1fr);
@@ -254,6 +260,11 @@ img#special{
 /* Mobile */
 
 @media (max-width: 767px){
+    section#commercial{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr;
+    }
     section#python{
         display: grid;
         grid-template-columns: 1fr;
